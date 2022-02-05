@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456445706312",
+    "project_id": "women-duka",
+    "storage_bucket": "women-duka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456445706312:android:433234e3af9681e49e987d",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456445706312-b1kd074suga3d1afpsf7vva8vdaf5699.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu71xL2o4sqQzviovRsW1YXcH68v_3knQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456445706312-b1kd074suga3d1afpsf7vva8vdaf5699.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
